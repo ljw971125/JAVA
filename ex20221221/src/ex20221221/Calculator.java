@@ -1,7 +1,7 @@
 package ex20221221;
 
 public class Calculator {
-	float result;
+	float result;//나눗셈을 위해 float 사용
 
 	int add(int x, int y) {
 		int result=x+y;
