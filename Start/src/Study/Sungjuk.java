@@ -1,5 +1,5 @@
 package Study;
-
+//메인 밑준비
 public class Sungjuk {
 int kor;
 int eng;
