@@ -33,7 +33,7 @@ public class Calculator {
 		//결과는 변수가 필요
 		if(op=='+') {
 			result= x+y;
-			return result;
+			return result;//선택사항
 			//return x+y;
 		}else if(op=='-') {
 			result = x-y;
