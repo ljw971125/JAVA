@@ -4,7 +4,7 @@ public class Calculator {
 	float result;//나눗셈을 위해 float 사용
 
 	int add(int x, int y) {
-		int result=x+y;
+		int result=x+y; //덧셈의 결과를 result에 표시
 		this.result=result;
 		return result;
 		
