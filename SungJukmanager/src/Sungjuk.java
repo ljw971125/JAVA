@@ -1,3 +1,4 @@
+//서브 클래스
 public class Sungjuk{
 int kor;
 int eng;
