@@ -26,14 +26,13 @@ public class PayMain {
 			pay=pay+1500000;
 		}else {//위의 조건에 모두 충족하지 못할때
 			pay =pay+3000000;
-		}
-		
-		System.out.println("당신의 급여는"+ pay +"입니다.(종료:q)");
+		}  
 		char exit=(char)System.in.read();//종료시켜줌
 		if(exit=='q') {
 			System.out.println("프로그램을 종료합니다.");
 			break;
 			}//밖으로 빠져나감
+		
 		}
 	}
 
