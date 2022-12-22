@@ -1,4 +1,4 @@
-package forwhile;
+package Forwhile;
 
 public class For3 {
 
