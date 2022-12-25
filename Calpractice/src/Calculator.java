@@ -14,7 +14,7 @@ public class Calculator {
 	
 	int mux(int x, int y) {
 		result=x*y;
-		return x*y;
+		return x*y;	
 	}
 	float div(int x,int y) {
 		result=(float)x/y;
