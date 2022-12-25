@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//두 숫자를 비교해서 큰 숫자 출력
 public class BLP2 {
 
 	public static void main(String[] args) {
@@ -13,8 +13,6 @@ public class BLP2 {
 			System.out.println(s2);
 		}
 		
-		
-
 	}
 
 }
