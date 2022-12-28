@@ -11,7 +11,7 @@ public class Phone1Mgr {
 	int index=0;
 	
 	public Phone1Mgr() {
-		pb=new Phone1[100];
+		pb=new Phone1[100];//100개의 행렬을 생성
 	}
 	
 	public Phone1Mgr(int size) {
