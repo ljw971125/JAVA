@@ -8,9 +8,16 @@ public class Arrayex3 {
 		int[] age= {22,25,30};
 		
 		for(int i=0; i<3; i++) {
-			System.out.println(label[i]+" "+name[i]+" "+tel[i]);//위에서 추가한 배열을 나열
+			System.out.print(label[i]+" "+name[i]+" "+tel[i]);//위에서 추가한 배열을 나열
+	}
+		/*
+		System.out.println();
+	for(int i=0; i<3; i++) {
+		System.out.println(label[i]+" "+name[i]+" "+tel[i]);//줄을 바꿔서 보기 편하게 추출
+	}
+	*/
 		}
 
 	}
 
-}
+
